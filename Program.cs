@@ -7,7 +7,7 @@ namespace StrategyPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //this is only in develop
+            //initial branch
         }
     }
 }
